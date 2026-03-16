@@ -1,18 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=GogoAnime%20RE&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Vanilla%20PHP%20CMS%20for%20Building%20Anime%20Streaming%20Platforms&descAlignY=55&descSize=15"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=GogoAnime%20RE&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=PHP%20Anime%20Streaming%20CMS%20Platform&descAlignY=55&descSize=15"/>
 </div>
+
+
 
 <p align="center">
   <a href="https://github.com/salman-dev-app/GogoAnime-RE">
-    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Build+Your+Anime+Platform;Powered+by+Pure+PHP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Anime+Streaming+CMS;Vanilla+PHP+Power+Platform" alt="Typing SVG" />
   </a>
 </p>
 
+
+
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-Anime_CMS-FF6B6B-FF6B6B?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-Vanilla-FF6B6B?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Type-CMS_Platform-4ECDC4?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anime-Streaming-00D9FF?style=for-the-badge&logo=crunchyroll&logoColor=white" />
   <img src="https://img.shields.io/github/last-commit/salman-dev-app/GogoAnime-RE?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/salman-dev-app/GogoAnime-RE?style=for-the-badge&color=4ECDC4&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/forks/salman-dev-app/GogoAnime-RE?style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -20,7 +24,7 @@
 <div align="center">
   <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" style="vertical-align: middle;" />
-    GogoAnime RE — Vanilla PHP CMS for Building Anime Streaming Platforms
+    A standalone vanilla PHP CMS for building full-featured anime streaming platforms with external video embedding — no framework required.
   </h3>
 </div>
 
@@ -29,34 +33,31 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="30" height="30" style="vertical-align: middle;" /> Quick Links
 
 <p align="center">
+  <a href="mailto:mdsalmanhelp@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Send_Email-FF6B6B?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
   <a href="https://github.com/salman-dev-app/GogoAnime-RE">
-    <img src="https://img.shields.io/badge/Source_Code-View_on_GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:mdsalmanhelp0@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Send_Email-4ECDC4?style=for-the-badge&logo=minutemailer&logoColor=white" />
-  </a>
-  <a href="https://github.com/salman-dev-app">
-    <img src="https://img.shields.io/badge/Portfolio-View_More_Projects-00D9FF?style=for-the-badge&logo=codesandbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Source-View_Code-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Lightbulb" width="30" height="30" style="vertical-align: middle;" /> About The Project
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" style="vertical-align: middle;" /> Core Features & Capabilities
 
-<p>
-Vanilla PHP CMS for Building Anime Streaming Platforms. This project is built with performance, scalability, and clean code in mind, following enterprise-level standards.
-</p>
+<div align="center">
 
----
+### Project Highlights
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="30" height="30" style="vertical-align: middle;" /> Key Features
+</div>
 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Anime CMS</strong> — Complete content management system for anime streaming sites</p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>External Video Embedding</strong> — Supports multiple video sources with iframe integration</p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Vanilla PHP</strong> — No heavy frameworks, pure PHP for maximum compatibility</p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Quick Setup</strong> — Non-technical user-friendly installation process</p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>GogoAnime Style</strong> — Inspired by the popular GogoAnime UI/UX</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Video Embedding</strong> — Supports external video embedding from multiple sources</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Zero Framework</strong> — Pure vanilla PHP — no Composer, no dependencies</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Search Engine</strong> — Built-in anime search and filtering capabilities</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Responsive Design</strong> — Mobile-first layout for all screen sizes</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Admin Panel</strong> — Full-featured admin panel for content management</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Database Driven</strong> — MySQL-backed for scalable content storage</p>
 
 ---
 
@@ -64,41 +65,62 @@ Vanilla PHP CMS for Building Anime Streaming Platforms. This project is built wi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js&theme=dark" />
+### Backend
+<img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" />
 
+<br/>### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+<br/>### Tools
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+
+<br/>
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="vertical-align: middle;" /> Getting Started
-
-### Prerequisites
-
-Make sure you have the required tools installed before running this project.
-
-### Installation
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="vertical-align: middle;" /> Installation & Setup
 
 ```bash
-# Clone the repository
 git clone https://github.com/salman-dev-app/GogoAnime-RE.git
 cd GogoAnime-RE
 
-# Upload files to your web server (Apache/Nginx with PHP)
-# Configure your database in config.php
+# Requirements: PHP 7.4+ and MySQL
 
-# Import the SQL schema
-mysql -u root -p your_database < database.sql
+# 1. Create database and import schema
+mysql -u root -p < database/schema.sql
 
-# Access your site at your domain
+# 2. Configure database connection
+cp config/config.example.php config/config.php
+nano config/config.php
+
+# 3. Set up web server (Apache/Nginx)
+# Point document root to the project directory
+
+# 4. Access admin panel
+# Navigate to: http://yourdomain.com/admin
 ```
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="30" height="30" style="vertical-align: middle;" /> Repository Stats
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salman-dev-app&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4" alt="Activity Graph" width="100%" >
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" height="35" style="vertical-align: middle;" />
+    Let's Build Together
+  </h2>
 </div>
+
+<p align="center">
+  <a href="mailto:mdsalmanhelp@gmail.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Available+for+New+Opportunities;Open+to+Freelance+Contracts;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:mdsalmanhelp@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-Send_an_Email-63A4FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -111,37 +133,18 @@ mysql -u root -p your_database < database.sql
 </div>
 
 <p align="center">
-  This project is licensed under the MIT License — feel free to use, modify, and distribute.
+  This project is licensed under the MIT License — feel free to use, modify, and contribute.
 </p>
-
----
-
-<div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party" width="30" height="30" style="vertical-align: middle;" />
-    Let's Connect & Collaborate
-  </h2>
-</div>
-
-<p align="center">
-  <a href="https://github.com/salman-dev-app">
-    <img src="https://img.shields.io/badge/VISIT-MY_GITHUB_PROFILE-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Made+with+Passion+by+Md+Salman+Biswas;Thanks+for+checking+this+out!;Star+%E2%AD%90+if+you+find+it+useful!" alt="Typing SVG" />
-</div>
-
-<br/>
 
 ---
 
 <footer align="center">
   <p>© 2024-2026 Md Salman Biswas · All rights reserved</p>
-  <a href="https://github.com/salman-dev-app">
-    <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" />
-  </a>
+  <p>
+    <a href="https://github.com/salman-dev-app">
+      <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" style="vertical-align: middle;">
+    </a>
+  </p>
   <p>Engineered by <a href="https://github.com/salman-dev-app">Md Salman Biswas</a></p>
 </footer>
 
