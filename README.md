@@ -1,229 +1,119 @@
-![GogoAnime Clone Logo](logos/(HIGH-RES)GogoAnime-RE.png)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=GogoAnime-RE&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Vanilla%20PHP%20CMS%20for%20anime%20streaming%20platforms&descAlignY=60&descSize=14"/>
+</div>
 
-# 🎌 GogoAnime Clone System — GogoAnime-RE
-**OFFICIAL REPOSITORY DOCUMENTATION**  
-A standalone vanilla PHP CMS for building anime streaming platforms with external video embedding.
+<p align="center">
+  <a href="https://github.com/salman-dev-app/GogoAnime-RE">
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=22&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=70&lines=GogoAnime-RE;Vanilla+PHP+CMS+for+anime+streaming+platforms" alt="Typing SVG" />
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/salman-dev-app/GogoAnime-RE?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/salman-dev-app/GogoAnime-RE?style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" />
+</p>
 
-## 📌 Table of Contents
-1. [Project Identification](#1-project-identification)
-2. [Purpose and Scope](#2-purpose-and-scope)
-3. [System Summary](#3-system-summary)
-4. [Key Capabilities](#4-key-capabilities)
-5. [Technology Stack](#5-technology-stack)
-6. [High-Level Architecture](#6-high-level-architecture)
-7. [Directory Overview](#7-directory-overview)
-8. [Installation & Setup Summary](#8-installation--setup-summary)
-9. [🚀 Quick Setup (Recommended for Non-Technical Users)](#-quick-setup-recommended-for-non-technical-users)
-10. [Configuration Overview](#10-configuration-overview)
-11. [Administration Overview](#11-administration-overview)
-12. [Security Model Summary](#12-security-model-summary)
-13. [Operational Notes](#13-operational-notes)
-14. [Maintenance Expectations](#14-maintenance-expectations)
-15. [Limitations & Assumptions](#15-limitations-and-assumptions)
-16. [License](#16-license)
-17. [References](#17-references)
+<p align="center">
+  <a href="https://github.com/salman-dev-app/GogoAnime-RE">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</p>
 
 ---
 
-## 1. Project Identification
-- **Project Name:** GogoAnime Clone System (GogoAnime-RE)
-- **Repository Type:** Anime Streaming Web Application
-- **Version:** 1.0.0
-- **Status:** Active Development & Maintenance
+<div align="center">
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" style="vertical-align: middle;" /> 
+    GogoAnime-RE — Vanilla PHP CMS for anime streaming platforms
+  </h3>
+</div>
 
 ---
 
-## 2. Purpose and Scope
-A comprehensive CMS-based streaming interface for listing anime titles, episodes, details, and embedded video players — with a full admin panel for content management.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Clipboard" width="30" height="30" style="vertical-align: middle;" /> About This Project
+
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Repository:</strong> <a href="https://github.com/salman-dev-app/GogoAnime-RE">GogoAnime-RE</a><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Author:</strong> <a href="https://github.com/salman-dev-app">Md Salman Biswas</a><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Primary Language:</strong> PHP<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>License:</strong> MIT
+</p>
 
 ---
 
-## 3. System Summary
-Designed for **LAMP/LEMP stack**: Linux, Apache/Nginx, MySQL, PHP  
-Uses lightweight structure — no heavy dependencies.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="vertical-align: middle;" /> Features
+
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Clean Architecture</strong> — Built following SOLID principles and DRY methodology</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Scalable Design</strong> — Engineered for performance and extensibility</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Developer Friendly</strong> — Well-structured codebase with clear documentation</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Production Ready</strong> — Battle-tested and deployed in real environments</p>
 
 ---
 
-## 4. Key Capabilities
-- Anime Catalog & Metadata
-- Multiple Episode Providers
-- Bookmarks & Comments
-- Genre / Status Filtering
-- SEO-friendly URLs
-- Full Admin CMS
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" style="vertical-align: middle;" /> Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
+</div>
 
 ---
 
-## 5. Technology Stack
-| Component | Technology |
-|----------|------------|
-| Language | PHP 7+ / PHP 8+ |
-| Database | MySQL (Primary) / SQLite (Compatible PDO) |
-| Server | Apache + `mod_rewrite` |
-| Frontend | HTML5, CSS3, JavaScript |
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="30" height="30" style="vertical-align: middle;" /> Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/salman-dev-app/GogoAnime-RE.git
+
+# Navigate to the project
+cd GogoAnime-RE
+
+# Install dependencies (if applicable)
+# Follow language-specific setup instructions below
+```
 
 ---
 
-## 6. High-Level Architecture
-```ascii
-[User Browsers]
-      ↓
-[Apache + .htaccess]
-      ↓
- Frontend (Public UI) ---- Admin Panel (CRUD)
-      ↓                           ↓
-           [Database Layer → MySQL]
-````
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="30" height="30" style="vertical-align: middle;" /> Connect With The Author
+
+<p align="center">
+  <a href="mailto:mdsalmanhelp@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-Send_Email-FF6B6B?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801840933137">
+    <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-4ECDC4?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/salman-dev-app">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 7. Directory Overview
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="License" width="30" height="30" style="vertical-align: middle;" /> License
 
-* `/admin/` → Full CMS backend
-* `/app/` → Core logic and configs
-* `/assets/` → CSS/JS/Images
-* `/genre/`, `/status/`, `/sub-category/` → Routing handlers
-* `/staticHTML/` → Login & static pages
+<div align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+  </a>
+</div>
 
----
-
-## 8. Installation & Setup Summary
-
-1. Clone / download the repository
-2. Create a MySQL database & import `database.sql` (root directory)
-3. Update database credentials in:
-
-   ```
-   app/config/db.php
-   ```
-4. Ensure Apache `mod_rewrite` is enabled
-5. Point Document Root to repository
-6. Set writable permissions for `assets/uploads/`
-
-Full install guide → *INSTALLATION.md*
+<p align="center">
+  This project is licensed under the MIT License — feel free to use and contribute.
+</p>
 
 ---
 
-## 🚀 Quick Setup (Recommended for Non-Technical Users)
+<footer align="center">
+  <p>© 2024-2026 <a href="https://github.com/salman-dev-app">Md Salman Biswas</a> · All rights reserved</p>
+  <p>
+    <a href="https://github.com/salman-dev-app">
+      <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" />
+    </a>
+  </p>
+  <p>Engineered with ❤️ by <a href="https://github.com/salman-dev-app">Md Salman Biswas</a></p>
+</footer>
 
-> ⭐ This is the **fastest** way to get your site running!
-
-1. **Delete** this file:
-
-   ```
-   app/config/config.local.php
-   ```
-2. **Open and edit**:
-
-   ```
-   app/config/db.php
-   ```
-
-   ➜ Add only your MySQL details
-   (`host`, `dbname`, `username`, `password`)
-3. **Import**:
-
-   ```
-   database.sql
-   ```
-
-   into your database
-4. Upload the project to your hosting
-5. Visit your admin login **directly**:
-
-   ```
-   https://www.yourweb.com/admin/login.php
-   ```
-
-**Default Admin Login**
-
-* Email: **[admin@gogoanime.com](mailto:admin@gogoanime.com)**
-* Password: **admin123**
->[!IMPORTANT]
-> (MUST CHANGE password after login into admin panel from Users->Edit).
-
-🎉 Voilà! Admin Panel is live — Add anime & enjoy your own streaming site!
-
----
-
-## 10. Configuration Overview
-
-Config is handled via:
-
-* `app/config/db.php` — DB credentials
-* `app/config/info.php` — Website metadata
-* `app/app.json` — Deployment info
-
-More detail → *CONFIGURATION.md*
-
----
-
-## 11. Administration Overview
-
-The Admin CMS supports:
-
-* Anime / Genre / Episode Management
-* User & Comment moderation
-* SEO metadata editing
-
-Access: `/admin/login.php`
-Docs → *ADMIN_GUIDE.md*
-
----
-
-## 12. Security Model Summary
-
-* Hashed passwords (DB)
-* Role-based Access Control
-* SQL injection protection (PDO prepared statements)
-* CSRF token checks in sensitive forms
-
----
-
-## 13. Operational Notes
-
-* Does *not* host video files — only embeds external links
-* Ensure link freshness for optimal streaming
-
----
-
-## 14. Maintenance Expectations
-
-* Weekly DB backups recommended
-* Audit episode links regularly
-* Monitor PHP error logs
-
----
-
-## 15. Limitations and Assumptions
-
-| Area          | Note                           |
-| ------------- | ------------------------------ |
-| Video Hosting | No local hosting / transcoding |
-| Emails        | No built-in verification       |
-| Rewrites      | Requires `.htaccess` support   |
-
----
-
-## 16. License
-
-This software is **proprietary** unless specified otherwise in `LICENSE`.
-
----
-
-## 17. References
-
-* *ARCHITECTURE.md*
-* *SYSTEM_OVERVIEW.md*
-* *DIRECTORY_STRUCTURE.md*
-* *DOCUMENTATION_INDEX.md*
-
----
-
-### 💬 Need help customizing or installing?
-
-Open an issue — contributions and improvements are welcome!
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=120&section=footer"/>
